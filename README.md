@@ -15,7 +15,7 @@
 
 - 🔭 I study software engineering at TUIT
 - 🌱 I’m currently learning ReactJs, TypeScript
-- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript
+- 💬 Ask me about HTML, CSS, Bootstrap, JavaScript, React, Redux, Material UI,
 - ⚡ Fun fact I think I'm a Developer
 
 
