@@ -6,7 +6,7 @@
 
                                                           ### Hi 👋, I'm Nosirbek
 
-<h3 align="center">I'm a Front End Developer👨‍💻👨‍💻</h3>
+<h3 align="center">I'm a FullStack(MERN) developer👨‍💻👨‍💻</h3>
 
 - 🔭 I study software engineering at TUIT
 - 🌱 I’m currently learning ReactJs, TypeScript
